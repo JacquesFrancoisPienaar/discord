@@ -1,5 +1,5 @@
 /**
- * @name gg
+ * @name wowow
  * @author Disease#5663
  * @version 1.0.11
  * @description macOS with barely any customization.
@@ -16,12 +16,12 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
-  --accent-hue: 328;
+  --accent-hue: 205;
   --accent-saturation: 100%;
   --accent-brightness: 50%;
-  --background-accent-hue: 323;
+  --background-accent-hue: 159;
   --background-accent-saturation: 0%;
-  --background-accent-brightness: 56%;
+  --background-accent-brightness: 50%;
   --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-position: center;
   --background-image-size: cover;
@@ -49,7 +49,7 @@
   --dock-blur: 0; /* Blur intensity of the dock. */
   --dock-border-radius: 0;
   --sidebar-width: 240px;
-  --members-width: 192px;
+  --members-width: 240px;
   --sidebar-text-brightness: 0;
   --background-floating-blur: 20px;
   --floating-background-lightness: 0;
@@ -63,3 +63,5 @@
 }
 
 /* Any custom CSS below here */
+
+
