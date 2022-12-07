@@ -1,5 +1,5 @@
 /**
- * @name wowow
+ * @name gg
  * @author Disease#5663
  * @version 1.0.11
  * @description macOS with barely any customization.
@@ -16,17 +16,17 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
-  --accent-hue: 205;
+  --accent-hue: 213;
   --accent-saturation: 100%;
   --accent-brightness: 50%;
-  --background-accent-hue: 159;
-  --background-accent-saturation: 0%;
-  --background-accent-brightness: 50%;
-  --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-accent-hue: 174;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 0%;
+  --background-image: transparent; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-position: center;
   --background-image-size: cover;
   --background-image-blur: 0px;
-  --background-overlay-opacity: 80%;
+  --background-overlay-opacity: 50%;
   --background-overlay-color-lightness: 0;
   --background-hue-shift-strength: 100%;
   --window-background-image: initial;
@@ -36,11 +36,11 @@
   --window-opacity: 100%;
   --window-blur: 0;
   --window-friends-blur: 0;
-  --window-margin: 24;
+  --window-margin: 13;
   --window-margin-left: 0;
-  --window-border-radius: 10px;
-  --window-background-lightness: 0;
-  --window-accent-tint-strength: 5%;
+  --window-border-radius: 15px;
+  --window-background-lightness: -0.36;
+  --window-accent-tint-strength: 0%;
   --chat-bubble: 0;
   --text-link-hue: 212;
   --chat-text-brightness: 0;
